@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 # calculator.py
 
 class Calculator:
@@ -26,6 +26,6 @@ class Calculator:
             raise ValueError("Cannot divide by zero")
         return a / b
     
-    def add_lists(self, a, b):
-        """Return the sum of a and b."""
-        return np.array(a) + np.array(b)
+    # def add_lists(self, a, b):
+    #     """Return the sum of a and b."""
+    #     return np.array(a) + np.array(b)
