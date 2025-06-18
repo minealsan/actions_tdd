@@ -2,7 +2,7 @@
 # calculator.py
 
 class Calculator:
-    """A simple calculator class."""
+    """A simple calculator class that does operations on two numbers."""
 
     def add(self, a, b):
         """Return the sum of a and b."""
